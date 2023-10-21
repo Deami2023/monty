@@ -1,4 +1,5 @@
 #include "monty.h"
+param *mont;
 /**
  * main - Monty byte cocde compiler
  * @argc: argument counter
